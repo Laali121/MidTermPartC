@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class VendingMachineItem 
 {
     public double price;
-    public static String [] candies = {"chocolate bar", "sour candy", "chilled soft drink", "potato chips"};
+    public static String [] candies = {"chocolate bar", "sour candy", "soft drink", "potato chips"};
     public VendingMachineItem()
     {
         //intentionally left blank
